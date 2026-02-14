@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:1a0c0c,50:3b1a1a,100:5a2a2a&text=NIKHIL%20NAIK&fontSize=46&fontColor=ffb38a&animation=scaleIn&desc=JAVA%20BACKEND%20ENGINEER&descAlignY=70"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | Kafka | Docker</h3>
 
@@ -5,7 +9,7 @@
   <a href="https://www.linkedin.com/in/nikhil-prakash-naik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:nikhilgithub9390@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
