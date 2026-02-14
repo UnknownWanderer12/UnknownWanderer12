@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:1a0c0c,50:3b1a1a,100:5a2a2a&text=NIKHIL%20NAIK&fontSize=46&fontColor=ffb38a&animation=scaleIn&desc=JAVA%20BACKEND%20ENGINEER&descAlignY=70"/>
+  <img src="https://raw.githubusercontent.com/UnknownWanderer12/UnknownWanderer12/main/assets/download.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
